@@ -1,3 +1,6 @@
 FastAPI
 Requests
 Jinja2
+uvicorn
+ollama
+python-dotenv
